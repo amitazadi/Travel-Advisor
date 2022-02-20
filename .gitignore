@@ -12,7 +12,9 @@
 /build
 
 # misc
+.idea
 .DS_Store
+.prettierrc
 .env
 .env.local
 .env.development.local
